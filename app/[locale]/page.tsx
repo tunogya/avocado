@@ -60,7 +60,7 @@ export default async function HomePage({
           <nav className="nav-links" aria-label={t("nav.ariaLabel")}>
             <a href="#">{t("nav.solutions")}</a>
             <a href="#">{t("nav.platform")}</a>
-            <a href="#">{t("nav.insights")}</a>
+            <Link href="/news">{t("nav.insights")}</Link>
             <a href="#">{t("nav.about")}</a>
             <a href="#">{t("nav.contact")}</a>
           </nav>
