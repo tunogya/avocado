@@ -1,0 +1,167 @@
+{
+  "Home": {
+    "meta": {
+      "title": "Carbon Ledger | 清洁能源交易平台",
+      "description": "一个面向清洁能源采购与项目交易的双语落地页框架。"
+    },
+    "nav": {
+      "brand": "Carbon Ledger",
+      "ariaLabel": "主导航",
+      "solutions": "解决方案",
+      "platform": "平台能力",
+      "insights": "洞察",
+      "about": "关于我们",
+      "contact": "联系我们",
+      "login": "登录",
+      "language": "语言",
+      "english": "EN",
+      "chinese": "中文"
+    },
+    "hero": {
+      "eyebrow": "Transaction Infrastructure",
+      "title": "驱动零碳能源交易的下一代基础设施",
+      "text": "连接买方、开发商与顾问，在同一平台完成筛选、评估、协商与成交，帮助团队更快达成高质量可再生能源交易。",
+      "primaryCta": "预约演示",
+      "secondaryCta": "浏览平台能力"
+    },
+    "stats": {
+      "title": "Marketplace Snapshot",
+      "items": [
+        {
+          "value": "4,800+",
+          "label": "可比对报价条目"
+        },
+        {
+          "value": "1,200+",
+          "label": "活跃项目与资产"
+        },
+        {
+          "value": "35",
+          "label": "覆盖市场（国家/区域）"
+        },
+        {
+          "value": "24h",
+          "label": "关键数据更新周期"
+        }
+      ]
+    },
+    "capability": {
+      "eyebrow": "Core Capability",
+      "title": "平台如何帮助你更快完成交易"
+    },
+    "capabilities": [
+      {
+        "title": "加速连接",
+        "description": "用双边市场连接买方、开发商、顾问与资金方，快速触达真实交易机会。"
+      },
+      {
+        "title": "加速决策",
+        "description": "基于实时市场数据和风险分析模型，帮助团队在投前和谈判阶段做出更稳健判断。"
+      },
+      {
+        "title": "加速成交",
+        "description": "通过标准化流程与协同工具，让 RFP、报价、尽调、签约全链路更高效。"
+      }
+    ],
+    "trust": {
+      "eyebrow": "Trusted by Teams",
+      "title": "被买方、开发商和顾问共同采用"
+    },
+    "partners": [
+      "Aether Grid",
+      "NorthWind Capital",
+      "BluePeak Utilities",
+      "SunHarbor Renewables",
+      "HelioWorks",
+      "TerraFlux",
+      "ArcLight Advisory",
+      "VoltBridge",
+      "Nexa Storage",
+      "Skyline Energy"
+    ],
+    "audience": {
+      "buyers": {
+        "eyebrow": "For Buyers & Advisors",
+        "title": "面向买方与顾问",
+        "items": [
+          "横向比较多区域、多技术路线报价，不再依赖单一渠道。",
+          "用统一风险视图评估价格、交付与信用条款，提升财务可解释性。",
+          "将采购流程模板化，缩短内部评审和外部谈判周期。"
+        ]
+      },
+      "developers": {
+        "eyebrow": "For Developers",
+        "title": "面向项目开发商",
+        "items": [
+          "集中展示项目，提高优质买方触达效率。",
+          "持续接收市场反馈，优化定价和开发策略。",
+          "降低销售与交易成本，把资源投入到项目推进。"
+        ]
+      }
+    },
+    "workflow": {
+      "eyebrow": "Workflow",
+      "title": "从需求到签约的标准流程",
+      "steps": [
+        {
+          "index": "01",
+          "title": "定义目标",
+          "text": "确定采购容量、风险偏好与时间窗口。"
+        },
+        {
+          "index": "02",
+          "title": "智能筛选",
+          "text": "按市场、技术与条款快速筛选候选项目。"
+        },
+        {
+          "index": "03",
+          "title": "并行尽调",
+          "text": "在统一工作区管理报价、模型和谈判反馈。"
+        },
+        {
+          "index": "04",
+          "title": "高效成交",
+          "text": "沉淀标准化模板，缩短下一轮交易周期。"
+        }
+      ]
+    },
+    "cta": {
+      "eyebrow": "Act Now",
+      "title": "让清洁能源交易更透明、更快、更可控",
+      "action": "联系销售团队"
+    },
+    "faq": {
+      "eyebrow": "FAQ",
+      "title": "常见问题",
+      "items": [
+        {
+          "q": "这个平台适合哪些团队？",
+          "a": "适用于企业买方、能源顾问、项目开发商以及参与清洁能源资产交易的投资机构。"
+        },
+        {
+          "q": "是否支持跨区域项目筛选？",
+          "a": "支持按国家、市场、技术路径和交易阶段多维过滤，方便快速缩小候选范围。"
+        },
+        {
+          "q": "如何控制敏感项目信息？",
+          "a": "支持分级权限和受邀查看机制，项目方可以决定何时、向谁披露关键资料。"
+        }
+      ]
+    },
+    "footer": {
+      "tagline": "更快构建更高质量的清洁能源交易。",
+      "solutionsTitle": "解决方案",
+      "platformTitle": "平台能力",
+      "contactTitle": "联系方式",
+      "solutions": ["买方", "开发商", "顾问"],
+      "platform": ["交易市场", "数据分析", "RFP 自动化"],
+      "email": "hello@carbon-ledger.io",
+      "phone": "+1 (800) 555-1234",
+      "phoneHref": "+18005551234",
+      "city": "Seattle · Madrid",
+      "copyright": "© 2026 Carbon Ledger. 保留所有权利。",
+      "privacy": "隐私政策",
+      "terms": "服务条款"
+    }
+  }
+}

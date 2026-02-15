@@ -1,0 +1,167 @@
+{
+  "Home": {
+    "meta": {
+      "title": "Carbon Ledger | Clean Energy Marketplace",
+      "description": "A marketplace-style landing framework for clean-energy procurement and project transactions."
+    },
+    "nav": {
+      "brand": "Carbon Ledger",
+      "ariaLabel": "Main navigation",
+      "solutions": "Solutions",
+      "platform": "Platform",
+      "insights": "Insights",
+      "about": "About",
+      "contact": "Contact",
+      "login": "Log in",
+      "language": "Language",
+      "english": "EN",
+      "chinese": "中文"
+    },
+    "hero": {
+      "eyebrow": "Transaction Infrastructure",
+      "title": "The Next Infrastructure for Zero-Carbon Energy Transactions",
+      "text": "Connect buyers, developers and advisors in one workspace to source, evaluate, negotiate and close renewable energy deals faster.",
+      "primaryCta": "Book a Demo",
+      "secondaryCta": "Explore Platform"
+    },
+    "stats": {
+      "title": "Marketplace Snapshot",
+      "items": [
+        {
+          "value": "4,800+",
+          "label": "Comparable quote records"
+        },
+        {
+          "value": "1,200+",
+          "label": "Active projects and assets"
+        },
+        {
+          "value": "35",
+          "label": "Markets covered (countries/regions)"
+        },
+        {
+          "value": "24h",
+          "label": "Key data refresh cycle"
+        }
+      ]
+    },
+    "capability": {
+      "eyebrow": "Core Capability",
+      "title": "How the platform helps you close deals faster"
+    },
+    "capabilities": [
+      {
+        "title": "Accelerate Matching",
+        "description": "Connect buyers, developers, advisors and capital partners in a two-sided marketplace to surface qualified opportunities."
+      },
+      {
+        "title": "Accelerate Decisions",
+        "description": "Use real-time market data and risk analytics to support stronger investment and negotiation decisions."
+      },
+      {
+        "title": "Accelerate Close",
+        "description": "Standardize RFPs, bids, due diligence and contracting so teams can move through transactions with less friction."
+      }
+    ],
+    "trust": {
+      "eyebrow": "Trusted by Teams",
+      "title": "Adopted by buyers, developers and advisors"
+    },
+    "partners": [
+      "Aether Grid",
+      "NorthWind Capital",
+      "BluePeak Utilities",
+      "SunHarbor Renewables",
+      "HelioWorks",
+      "TerraFlux",
+      "ArcLight Advisory",
+      "VoltBridge",
+      "Nexa Storage",
+      "Skyline Energy"
+    ],
+    "audience": {
+      "buyers": {
+        "eyebrow": "For Buyers & Advisors",
+        "title": "For Buyers and Advisory Teams",
+        "items": [
+          "Compare pricing across regions and technologies without relying on a single sourcing channel.",
+          "Evaluate price, delivery and credit terms through one unified risk lens.",
+          "Template procurement workflows to reduce internal review and negotiation cycle time."
+        ]
+      },
+      "developers": {
+        "eyebrow": "For Developers",
+        "title": "For Project Developers",
+        "items": [
+          "Showcase projects to high-intent buyers in one transaction channel.",
+          "Use continuous market feedback to optimize pricing and development strategy.",
+          "Lower sales overhead and focus resources on project execution."
+        ]
+      }
+    },
+    "workflow": {
+      "eyebrow": "Workflow",
+      "title": "A standard flow from demand to signature",
+      "steps": [
+        {
+          "index": "01",
+          "title": "Define Objectives",
+          "text": "Set target volume, risk appetite and timeline."
+        },
+        {
+          "index": "02",
+          "title": "Smart Screening",
+          "text": "Filter candidates quickly by market, technology and term structure."
+        },
+        {
+          "index": "03",
+          "title": "Parallel Diligence",
+          "text": "Manage bids, models and negotiation feedback in one workspace."
+        },
+        {
+          "index": "04",
+          "title": "Efficient Closing",
+          "text": "Reuse standardized templates to shorten the next transaction cycle."
+        }
+      ]
+    },
+    "cta": {
+      "eyebrow": "Act Now",
+      "title": "Make clean-energy transactions more transparent, faster and controllable",
+      "action": "Talk to Sales"
+    },
+    "faq": {
+      "eyebrow": "FAQ",
+      "title": "Frequently asked questions",
+      "items": [
+        {
+          "q": "Who is this platform built for?",
+          "a": "It supports corporate buyers, energy advisors, project developers and investment teams involved in clean-energy transactions."
+        },
+        {
+          "q": "Can I filter projects across regions?",
+          "a": "Yes. You can filter by country, market, technology and deal stage to narrow opportunities quickly."
+        },
+        {
+          "q": "How are sensitive project details protected?",
+          "a": "Role-based access and invitation-only sharing controls let developers manage who sees key materials and when."
+        }
+      ]
+    },
+    "footer": {
+      "tagline": "Build better clean-energy deals, faster.",
+      "solutionsTitle": "Solutions",
+      "platformTitle": "Platform",
+      "contactTitle": "Contact",
+      "solutions": ["Buyers", "Developers", "Advisors"],
+      "platform": ["Marketplace", "Analytics", "RFP Automation"],
+      "email": "hello@carbon-ledger.io",
+      "phone": "+1 (800) 555-1234",
+      "phoneHref": "+18005551234",
+      "city": "Seattle · Madrid",
+      "copyright": "© 2026 Carbon Ledger. All rights reserved.",
+      "privacy": "Privacy",
+      "terms": "Terms"
+    }
+  }
+}
