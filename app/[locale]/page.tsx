@@ -1,6 +1,6 @@
 import {Link} from "@/i18n/navigation";
 import {routing} from "@/i18n/routing";
-import {getTranslations} from "next-intl/server";
+import {getTranslations, setRequestLocale} from "next-intl/server";
 
 type TextBlock = {
   title: string;
@@ -36,8 +36,9 @@ export default async function HomePage({
 }: {
   params: Promise<{locale: string}>;
 }) {
-  const t = await getTranslations("Home");
   const {locale} = await params;
+  setRequestLocale(locale);
+  const t = await getTranslations({locale, namespace: "Home"});
 
   const capabilities = toArray<TextBlock>(t.raw("capabilities"));
   const buyers = toArray<string>(t.raw("audience.buyers.items"));
